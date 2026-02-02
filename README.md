@@ -73,6 +73,6 @@ npm run dev
 npm run build
 ```
 
-## Author
+## License
 
-Saurav Srivastava
+MIT
