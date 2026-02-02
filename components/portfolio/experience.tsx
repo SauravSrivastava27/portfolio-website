@@ -122,9 +122,6 @@ export function Experience() {
             <div className="space-y-2 mb-6">
               <h3 className="text-xl font-semibold">
                 {experiences[activeCompany].role}{" "}
-                <span className="text-primary">
-                  @ {experiences[activeCompany].company.split(" ")[0]}
-                </span>
               </h3>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Calendar className="w-4 h-4" />
