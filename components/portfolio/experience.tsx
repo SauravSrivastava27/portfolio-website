@@ -145,7 +145,7 @@ export function Experience() {
                         {project.name}
                       </h4>
                     </div>
-                    <ExternalLink className="w-4 h-4 text-muted-foreground" />
+                    {/* <ExternalLink className="w-4 h-4 text-muted-foreground" /> */}
                   </div>
 
                   <ul className="space-y-2 mb-4">
