@@ -44,11 +44,13 @@ export function About() {
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Currently, I work at{" "}
+              Currently, I am working at{" "}
               <span className="text-primary font-medium">
                 Accenture Solutions Pvt. Ltd
               </span>{" "}
-              as a Front-End Developer, delivering responsive and high-performance web applications for major clients including Marriott International and Silicon Valley Bank.
+              as a Full-Stack Developer, developing end-to-end web applications with 
+              responsive front-end interfaces and robust backend services for clients 
+              such as Marriott International and Silicon Valley Bank.
             </p>
           </div>
           <div className="space-y-6">

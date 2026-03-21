@@ -53,9 +53,9 @@ export function Contact() {
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">Get In Touch</h2>
           <p className="text-muted-foreground leading-relaxed mb-12">
-            I'm currently looking for new opportunities where I can apply my expertise in front-end
-            development and data engineering. Whether you have a question or just want to say hi,
-            I'll try my best to get back to you!
+            I'm currently seeking new opportunities where I can leverage my expertise in 
+            full-stack development to build scalable and high-performance web applications. 
+            Whether you have a question or just want to connect, feel free to reach out.
           </p>
 
           <div className="grid sm:grid-cols-2 gap-4 mb-12">
