@@ -5,7 +5,7 @@ import {
   Wrench,
   Shield,
   Lightbulb,
-  serverCog,
+  ServerCog,
 } from "lucide-react";
 
 const skillCategories = [
@@ -24,7 +24,7 @@ const skillCategories = [
   },
   {
     title: "Backend Development",
-    icon: serverCog,
+    icon: ServerCog,
     skills: [
       "Python",
       "Node.js",
