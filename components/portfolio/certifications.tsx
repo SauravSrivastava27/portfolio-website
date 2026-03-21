@@ -1,21 +1,21 @@
 import { Award, BadgeCheck, Star } from "lucide-react";
 
 const certifications = [
-  {
-    title: "SnowPro Core",
-    issuer: "Snowflake",
-    type: "certification",
-  },
-  {
-    title: "Astronomer Certification: Airflow 2 & 3 Fundamentals",
-    issuer: "Astronomer",
-    type: "certification",
-  },
-  {
-    title: "Astronomer Certification: DAG Authoring",
-    issuer: "Astronomer",
-    type: "certification",
-  },
+  // {
+  //   title: "SnowPro Core",
+  //   issuer: "Snowflake",
+  //   type: "certification",
+  // },
+  // {
+  //   title: "Astronomer Certification: Airflow 2 & 3 Fundamentals",
+  //   issuer: "Astronomer",
+  //   type: "certification",
+  // },
+  // {
+  //   title: "Astronomer Certification: DAG Authoring",
+  //   issuer: "Astronomer",
+  //   type: "certification",
+  // },
   {
     title: "GitHub Copilot Fundamentals",
     issuer: "GitHub",

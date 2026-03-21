@@ -15,15 +15,13 @@ export function Hero() {
               Saurav Srivastava
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-light">
-              Data Engineer & Front-End Developer
+              Senior Front-End Developer
             </p>
           </div>
 
           <p className="text-muted-foreground leading-relaxed max-w-2xl text-lg">
-            I build accessible, pixel-perfect digital experiences for the web.
-            With 8+ years of combined experience in building scalable data
-            pipelines, automating workflows, and developing responsive web
-            applications.
+            I build accessible and high-performance web applications, delivering clean and user-focused digital experiences. 
+            With 8+ years of experience in front-end development, I specialize in creating responsive and scalable web interfaces.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">

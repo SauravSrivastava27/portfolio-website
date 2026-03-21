@@ -9,59 +9,48 @@ import {
 
 const skillCategories = [
   {
-    title: "Programming",
+    title: "Programming & Web Development",
     icon: Code2,
     skills: [
       "HTML",
       "CSS",
       "SCSS",
-      "JavaScript",
-      "React",
       "Bootstrap",
+      "JavaScript",
       "jQuery",
-      "SQL",
-      "Python",
+      "React",
     ],
   },
   {
-    title: "Data Engineering",
-    icon: Database,
-    skills: [
-      "API Integration",
-      "Workflow Automation",
-      "Snowflake",
-      "Apache NiFi",
-      "Apache Airflow",
-      "Incremental Loads",
-      "Data Validation",
-    ],
-  },
-  {
-    title: "Cloud & DevOps",
+    title: "Backend Development",
     icon: Cloud,
     skills: [
-      "AWS",
-      "Elastic Kubernetes Service (EKS)",
-      "S3",
-      "EC2",
-      "CI/CD Pipelines (Harness)",
+      "Python",
+      "Node.js",
+      "RESTful APIs",
+      "API Integration",
+    ],
+  },
+  {
+    title: "Database",
+    icon: Database,
+    skills: [
+      "MongoDB",
+      "SQL",
+    ],
+  },
+  {
+    title: "Version Control",
+    icon: Shield,
+    skills: [
       "Git",
       "GitHub",
     ],
   },
   {
-    title: "Tools",
+    title: "Tools & Development Environment",
     icon: Wrench,
-    skills: ["VS Code", "WinSCP", "PuTTY", "Git Bash", "Jira", "Postman"],
-  },
-  {
-    title: "Security",
-    icon: Shield,
-    skills: [
-      "GPG Encryption",
-      "Public/Private Key Management",
-      "Secure File Operations",
-    ],
+    skills: ["VS Code", "Postman", "Git Bash", "Jira"],
   },
   {
     title: "Problem-Solving",
@@ -70,7 +59,6 @@ const skillCategories = [
       "Debugging",
       "Root Cause Analysis",
       "Performance Optimization",
-      "Reliability Engineering",
     ],
   },
 ];
