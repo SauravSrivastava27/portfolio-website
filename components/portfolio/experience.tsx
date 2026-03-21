@@ -7,7 +7,7 @@ import { Building2, Calendar, ExternalLink } from "lucide-react";
 const experiences = [
   {
     company: "Accenture Solutions Pvt. Ltd",
-    role: "Data Engineer / Front-End Developer",
+    role: " Senior Front-End Developer",
     period: "October 2021 - Present",
     projects: [
       {
@@ -32,27 +32,27 @@ const experiences = [
       {
         name: "Marriott International — Growth Project",
         description: [
-          "Worked on multiple MI Growth initiatives, including the MAX West partnership and Guanxi, aimed at expanding Marriott International's global footprint.",
-          "Supported end-to-end data integration across reservation, finance, loyalty, and stay-related domains using Airflow, NiFi, and Snowflake.",
-          "Built automated data pipelines to manage 2-way data exchanges with partner hotel groups.",
-          "Enabled smooth transfer of aggregated finance actuals, reservation-level details, Elite Room Night Credits, and loyalty metadata into Snowflake-based MDP systems.",
+          "Contributed to multiple Marriott International growth initiatives, including the Sonder and Guanxi, by developing web-based solutions that enabled seamless cross-brand reservation and loyalty experiences.",
+          "Integrated RESTful APIs using Python and Node.js to connect reservation, finance, and loyalty systems, ensuring smooth data flow.",
+          "Developed responsive UI using React, HTML, SCSS, Bootstrap, and JavaScript to display reservation and loyalty data.",
+          "Implemented secure API integrations for real-time data exchange with partner systems, ensuring accuracy and consistency.",
+          "Managed data flow and validation between front-end and backend, supporting key features like reservation tracking and loyalty visibility.",
+          "Performed testing, debugging, and performance optimization to improve application stability and user experience.",
         ],
-        technologies: ["Airflow", "Apache NiFi", "Snowflake", "Python", "SQL"],
+        technologies: ["React", "SCSS", "Bootstrap", "JavaScript", "Node.js", "Python"],
       },
       {
         name: "Silicon Valley Bank",
         description: [
-          "Designed and implemented front-end components using HTML, CSS3, SCSS, and Bootstrap, ensuring a clean and intuitive user experience.",
-          "Built a fully responsive layout leveraging Bootstrap's grid system and utility classes for seamless performance across devices.",
-          "Developed interactive features and enhanced UI behavior using .NET Core 2.0, jQuery, jQuery UI, and Bootstrap 4.",
+          "Designed and developed scalable front-end components using HTML, SCSS, and Bootstrap, delivering clean, intuitive, and user-focused interfaces.",
+          "Built fully responsive and cross-device compatible layouts using Bootstrap grid system and modern UI practices, ensuring consistent performance across desktop, tablet, and mobile platforms.",
+          "Implemented interactive UI features and enhanced user experience using JavaScript and SCSS, improving application responsiveness and usability.",
         ],
         technologies: [
           "HTML",
-          "CSS3",
           "SCSS",
-          "Bootstrap 4",
-          ".NET Core 2.0",
-          "jQuery",
+          "Bootstrap",
+          "JavaScript",
         ],
       },
     ],
@@ -65,8 +65,8 @@ const experiences = [
       {
         name: "Galen Growth Asia — HealthTech Alpha (HTA)",
         description: [
-          "HealthTech Alpha (HTA) is one of the most advanced Digital Health analytics platforms for investors and enterprise innovation leaders.",
-          "The platform empowers investors, corporates, and startups to accelerate their digital health strategies.",
+          "HealthTech Alpha is a HealthTech analytics platform launched by Galen Growth Asia.",
+          "It is one of the most advanced Digital Health analytics platforms for investors and enterprise innovation leaders. The platform empowers investors, corporates, and startups to accelerate their digital health strategies.",
           "Built UI components and improved user workflows using React, Bootstrap 4, and SCSS.",
           "Performed front-end development, including API integration and UI development, to enhance platform functionality and user experience.",
         ],
@@ -75,12 +75,12 @@ const experiences = [
       {
         name: "Institute of Behavioural Training (IBT)",
         description: [
-          "Contributed to the IBT platform, a comprehensive training hub for individuals who interact with, teach, care for, or treat people with autism spectrum disorder (ASD).",
-          "Supported the development of training modules and interfaces aimed at improving accessibility and learning experiences.",
-          "Developed and enhanced UI components using .NET Core 2.0, jQuery, jQuery UI, CSS, and Bootstrap 3.",
-          "Focused on improving usability, responsiveness, and overall user interaction across the platform.",
+          "Contributed to the Institute for Behavioural Training platform, a comprehensive training hub for individuals who interact with, teach, care for, or treat people with autism spectrum disorder.",
+          "Supported the development of training modules and interfaces aimed at improving accessibility and learning experiences for caregivers and professionals.",
+          "Developed and enhanced UI components using HTML5, jQuery, jQuery UI, CSS, and Bootstrap 3.",
+          "Performed UI development tasks, focusing on improving usability, responsiveness, and overall user interaction across the platform.",
         ],
-        technologies: [".NET Core 2.0", "jQuery", "jQuery UI", "CSS", "Bootstrap 3"],
+        technologies: ["HTML5", "jQuery", "jQuery UI", "CSS", "Bootstrap 3"],
       },
     ],
   },
