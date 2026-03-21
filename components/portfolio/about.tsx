@@ -19,26 +19,28 @@ export function About() {
                     Objective
                   </h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Seeking a role that allows me to apply my 5 years of
-                    experience in front-end development and 3 years in data
-                    engineering to build high-performing web solutions and
-                    efficient data pipelines. My goal is to deliver value
-                    through advanced front-end development, workflow automation,
-                    secure file operations, and streamlined CI/CD deployments.
+                    Seeking a challenging role where I can leverage my 8+ years of experience 
+                    in full-stack development to design and build scalable, high-performance web applications. 
+                    I aim to create responsive user interfaces and robust backend systems 
+                    using HTML, CSS, Bootstrap, JavaScript, jQuery, Python, Node.js, and MongoDB, 
+                    while delivering efficient and reliable software solutions that contribute to business growth.
                   </p>
                 </div>
               </div>
             </div>
 
             <p className="text-muted-foreground leading-relaxed">
-              I'm a Data Engineer and Front-End Developer with{" "}
+              I'm a Full-Stack Developer with{" "}
               <span className="text-foreground font-medium">
-                8+ years of combined experience
+                8+ years of experience
               </span>{" "}
-              in building scalable data pipelines, automating workflows, and
-              developing responsive web applications. I have a strong background
-              in CI/CD, API integrations, secure file operations, and end-to-end
-              production delivery for global enterprise platforms.
+              in developing responsive and scalable web applications. Proficient in {" "}
+              <span className="text-foreground font-medium">
+                HTML, CSS, Bootstrap, JavaScript, jQuery, Python, Node.js, and MongoDB
+              </span>{" "}
+               with strong expertise in building modern user interfaces and backend services. 
+               Experienced in developing end-to-end web solutions, integrating APIs, and delivering high-quality 
+               applications for enterprise environments.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
@@ -46,12 +48,9 @@ export function About() {
               <span className="text-primary font-medium">
                 Accenture Solutions Pvt. Ltd
               </span>{" "}
-              where I contribute to data engineering and front-end development
-              projects for major clients including Marriott International and
-              Silicon Valley Bank.
+              as a Front-End Developer, delivering responsive and high-performance web applications for major clients including Marriott International and Silicon Valley Bank.
             </p>
           </div>
-
           <div className="space-y-6">
             <div className="p-6 rounded-xl bg-card border border-border">
               <div className="flex items-center gap-3 mb-4">
