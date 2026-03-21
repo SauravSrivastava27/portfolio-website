@@ -52,7 +52,7 @@ export function Certifications() {
           <div className="h-px bg-border flex-1 max-w-xs" />
         </div>
 
-        <div className="grid md:grid-cols-10 gap-2">
+        <div className="grid md:grid-cols-9 gap-2">
           {/* Certifications */}
           <div>
             <div className="flex items-center gap-2 mb-6">
